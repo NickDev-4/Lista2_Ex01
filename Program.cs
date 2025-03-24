@@ -11,5 +11,5 @@ sobrenome = Console.ReadLine();
 Console.WriteLine();
 
 Console.WriteLine("Nome Completo: {0} {1}", nome, sobrenome);
-Console.WriteLine($"Nome de Catálogo: {sobrenome.ToUpper()}, {nome.ToLower()}");
+Console.WriteLine($"Nome de Catálogo: {sobrenome.ToUpper()}, {nome}");
 
